@@ -1,1 +1,13 @@
+# Node dependencies (if I ever ending up using npm)
+node_modules/
 
+# Local editor configurations (VS Code)
+.vscode/
+
+# Operating system metadata files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
